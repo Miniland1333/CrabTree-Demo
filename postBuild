@@ -1,3 +1,3 @@
 # sh, bash: add to shell or ~/.bashrc (Linux/Windows) or ~/.bash_profile (Mac) file
-export PYTHONPATH={prefix}/lib:$PYTHONPATH
+which psi4
 export PSI_SCRATCH=/path/to/existing/writable/local-not-network/directory/for/scratch/files
